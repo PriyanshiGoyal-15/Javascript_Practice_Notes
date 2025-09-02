@@ -12,12 +12,11 @@
 2 => non-primitve datatypes/Reference Type
 [where we can get directly allocated memory]
 [here the typeof data is always object 
-but the function typeof is ObjectFunction but when we checked ut wu=ill return function itself ]
+but the function typeof is ObjectFunction but when we checked ut will return function itself ]
 -> Array
 -> Objects
 -> Function
 */
-
 
 
 // it will return string
@@ -68,7 +67,7 @@ console.log(heros); //{ name: 'priyanshi', Course: 'BCA' }
 
 
 //****function***** */
-// myFunction = function name in const 
+// myFunction = function name and stored in const 
 //function() => declaring function ,()=> this is used to give some parameter and properties.
 const myFunction = function() {
     console.log("hello world");
