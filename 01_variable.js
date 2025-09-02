@@ -1,4 +1,4 @@
-//const [it's value is not changeable & we cannot defined it again]
+//const [it's value is not changeable/ we cannot defined it again]
 const accountId = 144553;
 // accountId = 2 // try to change but it is undefined
 
