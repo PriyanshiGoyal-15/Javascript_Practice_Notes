@@ -57,7 +57,7 @@ console.log(typeof StringNumber) //check by typeof
 //**************** OPERATIONS ************* */
 let value = 3
 let negvalue = -value
-console.log(negvalue) //we can +ve value to -ve value
+console.log(negvalue) //we can convert +ve value to -ve value
 
 console.log(2 + 2) //add
 console.log(2 - 2) //subtract
